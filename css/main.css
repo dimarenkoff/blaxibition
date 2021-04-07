@@ -4789,7 +4789,7 @@ button.bg-primary:focus {
   background-color: #676767 !important; }
 
 .bg-secondary {
-  background-color: #1f1f1f !important; }
+  background-color: #000000 !important; }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
@@ -7797,7 +7797,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 body {
   font-family: "Raleway",sans-serif;
-  background: #1f1f1f;
+  background: #131313;
   color: white; }
 
 .navbar {
